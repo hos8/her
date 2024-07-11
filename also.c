@@ -17,3 +17,10 @@ int main() {
 	printf("Hello, World!\n");
 	return 0;
 }
+
+# Race vote detail fast before write.
+#include <stdio.h>
+int main() {
+	printf("Hello, World!\n");
+	return 0;
+}
