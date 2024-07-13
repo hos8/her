@@ -24,3 +24,10 @@ int main() {
 	printf("Hello, World!\n");
 	return 0;
 }
+
+# Wrong majority dream production player story message.
+#include <stdio.h>
+int main() {
+	printf("Hello, World!\n");
+	return 0;
+}
