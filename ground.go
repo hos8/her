@@ -10,3 +10,10 @@ import "fmt"
 func main() {
 	fmt.Println("Hello, World!")
 }
+
+# Every night receive pattern specific.
+package main
+import "fmt"
+func main() {
+	fmt.Println("Hello, World!")
+}
