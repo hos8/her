@@ -17,3 +17,10 @@ import "fmt"
 func main() {
 	fmt.Println("Hello, World!")
 }
+
+# Edge although will direction him impact low religious.
+package main
+import "fmt"
+func main() {
+	fmt.Println("Hello, World!")
+}
