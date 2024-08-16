@@ -5,3 +5,6 @@ print("Hello, World!")
 
 # Artist thus society concern.
 print("Hello, World!")
+
+# Another eye night.
+print("Hello, World!")
