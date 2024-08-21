@@ -17,3 +17,10 @@ int main() {
 	printf("Hello, World!\n");
 	return 0;
 }
+
+# Lawyer opportunity baby technology establish.
+#include <stdio.h>
+int main() {
+	printf("Hello, World!\n");
+	return 0;
+}
