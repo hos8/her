@@ -24,3 +24,10 @@ int main() {
 	printf("Hello, World!\n");
 	return 0;
 }
+
+# Message mother role exist type wait return.
+#include <stdio.h>
+int main() {
+	printf("Hello, World!\n");
+	return 0;
+}
