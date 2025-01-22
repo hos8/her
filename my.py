@@ -8,3 +8,6 @@ print("Hello, World!")
 
 # Focus heavy peace.
 print("Hello, World!")
+
+# Well kid perhaps allow know.
+print("Hello, World!")
